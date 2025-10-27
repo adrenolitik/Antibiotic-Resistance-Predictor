@@ -1,9 +1,9 @@
 ---
 title: Antibiotic Resistance Predictor
-emoji: 🐢
+emoji: 🚀
 colorFrom: indigo
-colorTo: blue
-sdk: gradio
+colorTo: purple
+sdk: streamlit
 sdk_version: 5.49.1
 app_file: main.py
 pinned: false
