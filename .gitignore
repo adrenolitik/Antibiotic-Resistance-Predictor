@@ -41,8 +41,8 @@ env/
 .ipynb_checkpoints
 *.ipynb
 
-# Streamlit
-.streamlit/
+# Streamlit local secrets
+.streamlit/secrets.toml
 
 # Model files
 *.pkl
